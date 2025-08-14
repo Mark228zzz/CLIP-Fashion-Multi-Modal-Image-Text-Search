@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+torchvision
+scikit-learn
+pillow
+gradio
+faiss
+faiss-cpu
+kaggle
+open_clip_torch
