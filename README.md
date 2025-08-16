@@ -26,8 +26,8 @@ CLIP_fashion/
 ## Quick Start
 1. Clone the repo:
    ```bash
-   git clone <repo-url>
-   cd CLIP_fashion
+   git clone Mark228zzz/CLIP-Fashion-Multi-Modal-Image-Text-Search
+   cd CLIP-Fashion-Multi-Modal-Image-Text-Search
    ```
 
 2. Setup the venv:
