@@ -1,10 +1,10 @@
 pandas
 numpy
-torch
-torchvision
+gradio==4.41.0
+torch==2.2.2
+torchvision==0.17.2
 scikit-learn
 pillow
-gradio
 faiss
 faiss-cpu
 kaggle
